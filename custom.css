@@ -111,3 +111,109 @@ footer{
     border-radius:0px 0px 0px 0px;
     margin-bottom: 0;
 }
+
+/*CSS DAS PAGINAS SOBRE HTML*/
+#tituloPG {
+    border-radius: 20px 20px 20px 20px;
+    margin: 2rem;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#imagemHtml1 {
+
+    border-radius: 50%;
+}
+
+#imagemHtml2 {
+
+    border: 2px solid #000;
+    width: 70%;
+    height: 70%;
+    margin-bottom: 20px;
+}
+
+#imagemHtml3 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid #000;
+    width: 70%;
+    height: 70%;
+}
+
+
+.codigo {
+    font-weight: 200;
+    text-align: left;
+    border-left: 6px solid #000;
+    font-size: 1.2rem;
+    margin: 24px 0 24px;
+    max-width: 100%;
+    overflow: auto;
+    padding: 24px;
+    width: 90%;
+    background-color: rgba(53, 52, 52, 0.856);
+
+}
+
+#artigosHtml {
+    font-size: 20px;
+
+}
+
+.conteudoHTML {
+
+    text-align: left;
+    background-color: #42234F;
+    border: 1px solid black;
+    padding: 5%;
+    margin: 0;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.tags {
+    color: red;
+}
+
+.tags2 {
+    color: dodgerblue;
+}
+
+.tags3 {
+    color: yellow;
+}
+
+ol li {
+    text-align: left;
+    font-size: 17px;
+}
+
+#next {
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    float: right;
+    margin-top: 25px;
+}
+
+#anterior {
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    float: left;
+    margin-top: 25px;
+}
+
+#anterior:hover {
+    color: #AF7AC5;
+}
+
+#next:hover {
+    color: #AF7AC5;
+}
+
+ul li {
+    text-align: left;
+    font-size: 17px;
+    padding-top: 10px;
+}
